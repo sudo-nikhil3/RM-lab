@@ -1,0 +1,116 @@
+[
+  {
+    "country": "United States",
+    "gdp_share": 0.339090860760503,
+    "emission_share": 0.163189599428241,
+    "composite": 0.251140230094372
+  },
+  {
+    "country": "China",
+    "gdp_share": 0.215976501756609,
+    "emission_share": 0.415069938399755,
+    "composite": 0.315523220078182
+  },
+  {
+    "country": "Germany",
+    "gdp_share": 0.0526096606843022,
+    "emission_share": 0.0204199707313753,
+    "composite": 0.0365148157078387
+  },
+  {
+    "country": "Japan",
+    "gdp_share": 0.047625587566842,
+    "emission_share": 0.0326719531702005,
+    "composite": 0.0401487703685212
+  },
+  {
+    "country": "India",
+    "gdp_share": 0.0454104439590819,
+    "emission_share": 0.0960078957220161,
+    "composite": 0.070709169840549
+  },
+  {
+    "country": "United Kingdom",
+    "gdp_share": 0.0438465525720032,
+    "emission_share": 0.0116053500323316,
+    "composite": 0.0277259513021674
+  },
+  {
+    "country": "France",
+    "gdp_share": 0.0354422977241615,
+    "emission_share": 0.0103461185038968,
+    "composite": 0.0228942081140291
+  },
+  {
+    "country": "Italy",
+    "gdp_share": 0.0265817232931211,
+    "emission_share": 0.0104482183575537,
+    "composite": 0.0185149708253374
+  },
+  {
+    "country": "Canada",
+    "gdp_share": 0.0256956658500171,
+    "emission_share": 0.0199435047476432,
+    "composite": 0.0228195852988301
+  },
+  {
+    "country": "Brazil",
+    "gdp_share": 0.0249967880417687,
+    "emission_share": 0.014906578633904,
+    "composite": 0.0199516833378364
+  },
+  {
+    "country": "Russia",
+    "gdp_share": 0.0229976209357653,
+    "emission_share": 0.0627573767144267,
+    "composite": 0.042877498825096
+  },
+  {
+    "country": "South Korea",
+    "gdp_share": 0.0205853295469145,
+    "emission_share": 0.0219174352516761,
+    "composite": 0.0212513823992953
+  },
+  {
+    "country": "Mexico",
+    "gdp_share": 0.0206307399908736,
+    "emission_share": 0.0150086784875608,
+    "composite": 0.0178197092392172
+  },
+  {
+    "country": "Australia",
+    "gdp_share": 0.0202630261519854,
+    "emission_share": 0.0134431473981554,
+    "composite": 0.0168530867750704
+  },
+  {
+    "country": "Indonesia",
+    "gdp_share": 0.0159855838454007,
+    "emission_share": 0.0282476261784025,
+    "composite": 0.0221166050119016
+  },
+  {
+    "country": "Turkey",
+    "gdp_share": 0.0159202371089718,
+    "emission_share": 0.0135792805363646,
+    "composite": 0.0147497588226682
+  },
+  {
+    "country": "Saudi Arabia",
+    "gdp_share": 0.0140495483322184,
+    "emission_share": 0.0223598679508559,
+    "composite": 0.0182047081415372
+  },
+  {
+    "country": "Argentina",
+    "gdp_share": 0.00756914570771623,
+    "emission_share": 0.0128645815607664,
+    "composite": 0.0102168636342413
+  },
+  {
+    "country": "South Africa",
+    "gdp_share": 0.00472268617174451,
+    "emission_share": 0.0152128781948746,
+    "composite": 0.00996778218330955
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "descriptive_stats_cooperation_rate": {
+    "count": 210.0,
+    "mean": 0.45198433583959896,
+    "std": 0.2418892037910722,
+    "min": 0.119078947368421,
+    "25%": 0.23322368421052625,
+    "50%": 0.37016447368421046,
+    "75%": 0.7027960526315788,
+    "max": 0.875
+  },
+  "correlation_matrix": {
+    "mechanism_strength_p": {
+      "mechanism_strength_p": 1.0,
+      "benefit_cost_ratio": -0.0,
+      "titfortat_share": -0.0,
+      "steady_cooperation_rate": 0.176,
+      "steady_welfare": 0.068
+    },
+    "benefit_cost_ratio": {
+      "mechanism_strength_p": -0.0,
+      "benefit_cost_ratio": 1.0,
+      "titfortat_share": -0.0,
+      "steady_cooperation_rate": 0.012,
+      "steady_welfare": 0.665
+    },
+    "titfortat_share": {
+      "mechanism_strength_p": -0.0,
+      "benefit_cost_ratio": -0.0,
+      "titfortat_share": 1.0,
+      "steady_cooperation_rate": 0.895,
+      "steady_welfare": 0.591
+    },
+    "steady_cooperation_rate": {
+      "mechanism_strength_p": 0.176,
+      "benefit_cost_ratio": 0.012,
+      "titfortat_share": 0.895,
+      "steady_cooperation_rate": 1.0,
+      "steady_welfare": 0.661
+    },
+    "steady_welfare": {
+      "mechanism_strength_p": 0.068,
+      "benefit_cost_ratio": 0.665,
+      "titfortat_share": 0.591,
+      "steady_cooperation_rate": 0.661,
+      "steady_welfare": 1.0
+    }
+  },
+  "baseline_vs_mechanism_steady_state": {
+    "baseline_no_mechanism": 0.3158,
+    "with_mechanism_p_0.6": 0.3884
+  },
+  "pearson_p_vs_cooprate": {
+    "r": 0.176,
+    "p_value": 0.010607174386307561
+  },
+  "model_comparison": {
+    "Linear Regression": {
+      "test_MAE": 0.0961,
+      "test_RMSE": 0.1111,
+      "test_R2": 0.7504,
+      "5fold_CV_R2_mean": 0.8195,
+      "5fold_CV_R2_std": 0.0255
+    },
+    "Random Forest Regression": {
+      "test_MAE": 0.0686,
+      "test_RMSE": 0.0972,
+      "test_R2": 0.8092,
+      "5fold_CV_R2_mean": 0.8633,
+      "5fold_CV_R2_std": 0.0216
+    }
+  },
+  "best_model": "Random Forest Regression",
+  "feature_importance_random_forest": {
+    "mechanism_strength_p": 0.0629,
+    "benefit_cost_ratio": 0.0297,
+    "titfortat_share": 0.9074
+  }
+}
